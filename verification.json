@@ -1,0 +1,16 @@
+{
+  "scope": "Showcase website read-only, data sintetis; bukan hasil penelitian",
+  "verified_on": "2026-10-09",
+  "passed": true,
+  "pipeline_and_browser_checks": 104,
+  "readonly_preview_checks": 23,
+  "php_compared_periods": 2,
+  "php_compared_numeric_values": 1938,
+  "php_maximum_absolute_difference": 0,
+  "browser_javascript_errors": 0,
+  "external_api_requests": 0,
+  "original_credentials_exported": false,
+  "pov": ["Admin Humas Polres", "Admin Humas Polsek"],
+  "original_php_project_modified": false,
+  "interactive_kmeans_demo_modified": false
+}
